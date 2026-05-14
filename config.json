@@ -1,0 +1,11 @@
+{
+  "tor_proxy": "socks5h://127.0.0.1:9050",
+  "timeout": 10,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+  "save_html": true,
+  "scan_keywords": true,
+  "detect_honeypots": true,
+  "extract_links": true,
+  "depth_limit": 2,
+  "max_pages": 50
+}
